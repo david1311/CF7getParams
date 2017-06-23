@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: CF7getParams
-Plugin URI: http://optimizaclick.com
-Description: Get values to form
+Plugin URI: http://www.optimizaclick.com
+Description: Get values from contact form 7.
 Author: Departamento de Desarrollo Optimizaclick
-Author URI: http://#
-Version: 1.0
-Copyright: 2016 - 2017
+Author URI: http://www.optimizaclick.com
+Version: 1.0.1.3
+Copyright: 2017
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
